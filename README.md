@@ -1,1 +1,1 @@
-[Mybinder](https://mybinder.org/v2/gh/buckcri/jupyter-test/HEAD)
+[mybinder.org](https://mybinder.org/v2/gh/buckcri/tf-collab-test/HEAD)
