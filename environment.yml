@@ -12,5 +12,6 @@ dependencies:
   - bokeh
   - dask
   - tensorflow
+  - tensorflow-datasets
   - keras
   - pillow
